@@ -1,0 +1,12 @@
+C:\Users\ACER\source\repos\BlogAppApi\BlogAppApi.Data\bin\Debug\netcoreapp3.1\BlogAppApi.Data.deps.json
+C:\Users\ACER\source\repos\BlogAppApi\BlogAppApi.Data\bin\Debug\netcoreapp3.1\BlogAppApi.Data.dll
+C:\Users\ACER\source\repos\BlogAppApi\BlogAppApi.Data\bin\Debug\netcoreapp3.1\BlogAppApi.Data.pdb
+C:\Users\ACER\source\repos\BlogAppApi\BlogAppApi.Data\bin\Debug\netcoreapp3.1\BlogAppApi.Core.dll
+C:\Users\ACER\source\repos\BlogAppApi\BlogAppApi.Data\bin\Debug\netcoreapp3.1\BlogAppApi.Core.pdb
+C:\Users\ACER\source\repos\BlogAppApi\BlogAppApi.Data\obj\Debug\netcoreapp3.1\BlogAppApi.Data.csprojAssemblyReference.cache
+C:\Users\ACER\source\repos\BlogAppApi\BlogAppApi.Data\obj\Debug\netcoreapp3.1\BlogAppApi.Data.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\BlogAppApi\BlogAppApi.Data\obj\Debug\netcoreapp3.1\BlogAppApi.Data.AssemblyInfo.cs
+C:\Users\ACER\source\repos\BlogAppApi\BlogAppApi.Data\obj\Debug\netcoreapp3.1\BlogAppApi.Data.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\BlogAppApi\BlogAppApi.Data\obj\Debug\netcoreapp3.1\BlogAppApi.Data.csproj.CopyComplete
+C:\Users\ACER\source\repos\BlogAppApi\BlogAppApi.Data\obj\Debug\netcoreapp3.1\BlogAppApi.Data.dll
+C:\Users\ACER\source\repos\BlogAppApi\BlogAppApi.Data\obj\Debug\netcoreapp3.1\BlogAppApi.Data.pdb

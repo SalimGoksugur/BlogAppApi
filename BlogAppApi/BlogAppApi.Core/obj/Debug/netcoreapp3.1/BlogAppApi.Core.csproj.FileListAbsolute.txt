@@ -1,0 +1,9 @@
+C:\Users\ACER\source\repos\BlogAppApi\BlogAppApi.Core\bin\Debug\netcoreapp3.1\BlogAppApi.Core.deps.json
+C:\Users\ACER\source\repos\BlogAppApi\BlogAppApi.Core\bin\Debug\netcoreapp3.1\BlogAppApi.Core.dll
+C:\Users\ACER\source\repos\BlogAppApi\BlogAppApi.Core\bin\Debug\netcoreapp3.1\BlogAppApi.Core.pdb
+C:\Users\ACER\source\repos\BlogAppApi\BlogAppApi.Core\obj\Debug\netcoreapp3.1\BlogAppApi.Core.csprojAssemblyReference.cache
+C:\Users\ACER\source\repos\BlogAppApi\BlogAppApi.Core\obj\Debug\netcoreapp3.1\BlogAppApi.Core.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\BlogAppApi\BlogAppApi.Core\obj\Debug\netcoreapp3.1\BlogAppApi.Core.AssemblyInfo.cs
+C:\Users\ACER\source\repos\BlogAppApi\BlogAppApi.Core\obj\Debug\netcoreapp3.1\BlogAppApi.Core.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\BlogAppApi\BlogAppApi.Core\obj\Debug\netcoreapp3.1\BlogAppApi.Core.dll
+C:\Users\ACER\source\repos\BlogAppApi\BlogAppApi.Core\obj\Debug\netcoreapp3.1\BlogAppApi.Core.pdb
